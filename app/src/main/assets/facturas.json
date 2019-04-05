@@ -1,0 +1,278 @@
+[
+    {
+        "estatus": "1",
+        "fechaFactura": "2019-04-01T00:00:00-06:00",
+        "id": 8,
+        "idDolar": {
+            "dia": "2019-04-04T00:00:00-06:00",
+            "id": 21,
+            "venta": 19.1728
+        },
+        "idEmpresa": {
+            "direccion": "Gabriel Mancera 1555 int B-105",
+            "id": 8,
+            "nombre": "Global CS",
+            "periodoPago": 45,
+            "rfc": "GCS990324B81",
+            "telefono": "55341760"
+        },
+        "moneda": "MXN",
+        "monto": 683712.9,
+        "numeroFactura": "GCS1555",
+        "rutaFacturaPdf": "1-r8J-pY12GiVJlKNN3O6ZwDfnK8RE-1i",
+        "rutaFacturaXml": "1gOR_5zdoiuo3swD4Wa2sKIqdlZzTcX_I"
+    },
+    {
+        "estatus": "1",
+        "fechaFactura": "2019-04-01T00:00:00-06:00",
+        "id": 9,
+        "idDolar": {
+            "dia": "2019-04-04T00:00:00-06:00",
+            "id": 21,
+            "venta": 19.1728
+        },
+        "idEmpresa": {
+            "direccion": "Gabriel Mancera 1555 int B-105",
+            "id": 8,
+            "nombre": "Global CS",
+            "periodoPago": 45,
+            "rfc": "GCS990324B81",
+            "telefono": "55341760"
+        },
+        "moneda": "MXN",
+        "monto": 432293.34,
+        "numeroFactura": "GCS1556",
+        "rutaFacturaPdf": "1AtLmdgkvuKBmFt8lmYb8T9rG4f-zKdi3",
+        "rutaFacturaXml": "1y0sjpympCr2q9M5DID7L0rAlBTnYhE2W"
+    },
+    {
+        "estatus": "1",
+        "fechaFactura": "2019-04-01T00:00:00-06:00",
+        "id": 10,
+        "idDolar": {
+            "dia": "2019-04-04T00:00:00-06:00",
+            "id": 21,
+            "venta": 19.1728
+        },
+        "idEmpresa": {
+            "direccion": "Gabriel Mancera 1555 int B-105",
+            "id": 8,
+            "nombre": "Global CS",
+            "periodoPago": 45,
+            "rfc": "GCS990324B81",
+            "telefono": "55341760"
+        },
+        "moneda": "MXN",
+        "monto": 514690.34,
+        "numeroFactura": "GCS1557",
+        "rutaFacturaPdf": "1UnNhS7IXnBs6pLuhQgvbVzHrpbxJtfq5",
+        "rutaFacturaXml": "10xlh-6l66L94TsuWrKKo8jWBxey4sN5E"
+    },
+    {
+        "estatus": "1",
+        "fechaFactura": "2019-04-01T00:00:00-06:00",
+        "id": 11,
+        "idDolar": {
+            "dia": "2019-04-04T00:00:00-06:00",
+            "id": 21,
+            "venta": 19.1728
+        },
+        "idEmpresa": {
+            "direccion": "Gabriel Mancera 1555 int B-105",
+            "id": 8,
+            "nombre": "Global CS",
+            "periodoPago": 45,
+            "rfc": "GCS990324B81",
+            "telefono": "55341760"
+        },
+        "moneda": "MXN",
+        "monto": 19426180,
+        "numeroFactura": "GCS1558",
+        "rutaFacturaPdf": "1UCxlBGRDBmGMuYU6UJtoNmnbp1KbzgUD",
+        "rutaFacturaXml": "1qWYXvx1Fd0W4TXc1U-rZF2J-KDEK2cOa"
+    },
+    {
+        "estatus": "1",
+        "fechaFactura": "2019-04-01T00:00:00-06:00",
+        "id": 12,
+        "idDolar": {
+            "dia": "2019-04-04T00:00:00-06:00",
+            "id": 21,
+            "venta": 19.1728
+        },
+        "idEmpresa": {
+            "direccion": "Gabriel Mancera 1555 int B-105",
+            "id": 8,
+            "nombre": "Global CS",
+            "periodoPago": 45,
+            "rfc": "GCS990324B81",
+            "telefono": "55341760"
+        },
+        "moneda": "MXN",
+        "monto": 116000,
+        "numeroFactura": "GCS1559",
+        "rutaFacturaPdf": "1ZHiRJbm5cKgB5XtORz8dnoeBRwYMi3a9",
+        "rutaFacturaXml": "1ALOi1x2ZdjU4jbQQZ_DgVZBIacMOegvO"
+    },
+    {
+        "estatus": "1",
+        "fechaFactura": "2019-04-01T00:00:00-06:00",
+        "id": 13,
+        "idDolar": {
+            "dia": "2019-04-04T00:00:00-06:00",
+            "id": 21,
+            "venta": 19.1728
+        },
+        "idEmpresa": {
+            "direccion": "Gabriel Mancera 1555 int B-105",
+            "id": 8,
+            "nombre": "Global CS",
+            "periodoPago": 45,
+            "rfc": "GCS990324B81",
+            "telefono": "55341760"
+        },
+        "moneda": "MXN",
+        "monto": 243136,
+        "numeroFactura": "GCS1560",
+        "rutaFacturaPdf": "1AbZcl-aLOtHpf0xmOuQSCezpa2oMducm",
+        "rutaFacturaXml": "1W0oqugRI5jixkJbw0AO_tOx56ZnQ4hlQ"
+    },
+    {
+        "estatus": "1",
+        "fechaFactura": "2019-04-01T00:00:00-06:00",
+        "id": 14,
+        "idDolar": {
+            "dia": "2019-04-04T00:00:00-06:00",
+            "id": 21,
+            "venta": 19.1728
+        },
+        "idEmpresa": {
+            "direccion": "Gabriel Mancera 1555 int B-105",
+            "id": 8,
+            "nombre": "Global CS",
+            "periodoPago": 45,
+            "rfc": "GCS990324B81",
+            "telefono": "55341760"
+        },
+        "moneda": "MXN",
+        "monto": 1831327.2,
+        "numeroFactura": "GCS1561",
+        "rutaFacturaPdf": "1kYYcrB3kmZ4Px01uK0KOKsCYdQ3kUCFl",
+        "rutaFacturaXml": "1kWUpcArddbYEMRHbVgVWgHn0B7uCXgsO"
+    },
+    {
+        "estatus": "1",
+        "fechaFactura": "2019-04-01T00:00:00-06:00",
+        "id": 15,
+        "idDolar": {
+            "dia": "2019-04-04T00:00:00-06:00",
+            "id": 21,
+            "venta": 19.1728
+        },
+        "idEmpresa": {
+            "direccion": "Gabriel Mancera 1555 int B-105",
+            "id": 8,
+            "nombre": "Global CS",
+            "periodoPago": 45,
+            "rfc": "GCS990324B81",
+            "telefono": "55341760"
+        },
+        "moneda": "MXN",
+        "monto": 1159871.4,
+        "numeroFactura": "GCS1562",
+        "rutaFacturaPdf": "1erDBOMDT9IvaxRIAbbOW--MJjGvQNqc9",
+        "rutaFacturaXml": "1BtgdSRYuSfqzeC2cySVzDbIoeF-FQJtt"
+    },
+    {
+        "estatus": "1",
+        "fechaFactura": "2019-04-01T00:00:00-06:00",
+        "id": 16,
+        "idDolar": {
+            "dia": "2019-04-04T00:00:00-06:00",
+            "id": 21,
+            "venta": 19.1728
+        },
+        "idEmpresa": {
+            "direccion": "Gabriel Mancera 1555 int B-105",
+            "id": 8,
+            "nombre": "Global CS",
+            "periodoPago": 45,
+            "rfc": "GCS990324B81",
+            "telefono": "55341760"
+        },
+        "moneda": "MXN",
+        "monto": 1159386.9,
+        "numeroFactura": "GCS1563",
+        "rutaFacturaPdf": "1W83RJ-xuuPfr-5_-nPew3QjxNvRHtzzM",
+        "rutaFacturaXml": "1iG8FxATPzk2wBlR2jS-jAD7q-lxdAFPs"
+    },
+    {
+        "estatus": "1",
+        "fechaFactura": "2019-03-04T00:00:00-06:00",
+        "id": 17,
+        "idDolar": {
+            "dia": "2019-03-19T00:00:00-06:00",
+            "id": 6,
+            "venta": 19.0004
+        },
+        "idEmpresa": {
+            "direccion": "Gabriel Mancera 1555 int B-105",
+            "id": 8,
+            "nombre": "Global CS",
+            "periodoPago": 45,
+            "rfc": "GCS990324B81",
+            "telefono": "55341760"
+        },
+        "moneda": "MXN",
+        "monto": 27625650,
+        "numeroFactura": "GCS1549",
+        "rutaFacturaPdf": "1S6j4pp7AVo1THd7JNh3DxzK86g9A3Qc0",
+        "rutaFacturaXml": "1cA4HP4QJfEVAxD2fiJLszM_SgoFJtEEN"
+    },
+    {
+        "estatus": "1",
+        "fechaFactura": "2019-03-04T00:00:00-06:00",
+        "id": 18,
+        "idDolar": {
+            "dia": "2019-03-19T00:00:00-06:00",
+            "id": 6,
+            "venta": 19.0004
+        },
+        "idEmpresa": {
+            "direccion": "Gabriel Mancera 1555 int B-105",
+            "id": 8,
+            "nombre": "Global CS",
+            "periodoPago": 45,
+            "rfc": "GCS990324B81",
+            "telefono": "55341760"
+        },
+        "moneda": "MXN",
+        "monto": 815200.8,
+        "numeroFactura": "GCS1550",
+        "rutaFacturaPdf": "1EJd5suDCbiNRFsflMts_NaLANMBVSKoc",
+        "rutaFacturaXml": "1De9bCLoXad7w9vvXKwNkoQhoxzYTDUEA"
+    },
+    {
+        "estatus": "1",
+        "fechaFactura": "2019-02-07T00:00:00-06:00",
+        "id": 19,
+        "idDolar": {
+            "dia": "2019-04-04T00:00:00-06:00",
+            "id": 21,
+            "venta": 19.1728
+        },
+        "idEmpresa": {
+            "direccion": "Gabriel Mancera 1555 int B-105",
+            "id": 8,
+            "nombre": "Global CS",
+            "periodoPago": 45,
+            "rfc": "GCS990324B81",
+            "telefono": "55341760"
+        },
+        "moneda": "MXN",
+        "monto": 2990072.8,
+        "numeroFactura": "GCS1539",
+        "rutaFacturaPdf": "1TeEHZvjhmmiBeRj4dDtun-_DJy3o8P43",
+        "rutaFacturaXml": "1pGAS35aoOotmG4QW214TvjOnW83PQ4Qe"
+    }
+]

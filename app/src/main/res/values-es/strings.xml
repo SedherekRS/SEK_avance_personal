@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Facturas SEK</string>
+    <string name="invoice">Factura</string>
+    <string name="date">Fecha</string>
+    <string name="amount">Monto</string>
+    <string name="currency">Moneda</string>
+    <string name="Payment">Periodo Pago:</string>
+</resources>

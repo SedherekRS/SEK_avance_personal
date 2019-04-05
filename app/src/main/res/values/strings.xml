@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SEK invoice</string>
+    <string name="invoice">Invoice</string>
+    <string name="date">Date</string>
+    <string name="amount">Amount</string>
+    <string name="currency">Currency</string>
+    <string name="Payment">Payment Period:</string>
+</resources>
